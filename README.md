@@ -1,6 +1,8 @@
 # WhatsApp-GDrive-Downloader
 Easy way to download your WhatsApp Backup from Google Drive
 
+This tool use whagodri lib from Whapa script to perform the download, the source code you can find in this URL: https://github.com/B16f00t/whapa
+
 # Usage
 Click on the "Open in Colab" button.
 <a href="https://colab.research.google.com/github/limontec/WhatsApp-GDrive-Downloader/blob/master/WGDD.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
